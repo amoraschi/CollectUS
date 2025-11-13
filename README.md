@@ -6,24 +6,24 @@ This repository contains a dataset of academic staff members from the University
 
 The `data.csv` file contains:
 
-- **ID**: A unique identifier for each academic staff member.
-- **Surname**: The last name(s) of the staff member.
-- **Name**: The first name(s) of the staff member.
-- **URL**: The direct link to the staff member's profile page on the University of Seville website.
+- **id**: A unique identifier for each academic staff member.
+- **surname**: The last name(s) of the staff member.
+- **name**: The first name(s) of the staff member.
+- **url**: The direct link to the staff member's profile page on the University of Seville website.
 
 The `detailed_data.csv` file contains:
 
-- **ID**: A unique identifier for each academic staff member.
-- **Surname**: The last name(s) of the staff member.
-- **Name**: The first name(s) of the staff member.
-- **URL**: The direct link to the staff member's profile page on the University of Seville website.
-- **Correo**: The email address of the staff member.
-- **Telefono**: The phone numbers of the staff member.
-- **Categoria**: The academic category or title of the staff member.
-- **Centro**: The faculties or centers where the staff member is affiliated.
-- **Departamento**: The department of the staff member.
-- **Area**: The area of expertise or research of the staff member.
-- **Asignaturas**: The subjects or courses taught by the staff member.
+- **id**: A unique identifier for each academic staff member.
+- **surname**: The last name(s) of the staff member.
+- **name**: The first name(s) of the staff member.
+- **url**: The direct link to the staff member's profile page on the University of Seville website.
+- **email**: The email address of the staff member.
+- **phones**: The phone numbers of the staff member.
+- **category**: The academic category or title of the staff member.
+- **faculties**: The faculties or centers where the staff member is affiliated.
+- **department**: The department of the staff member.
+- **area**: The area of expertise or research of the staff member.
+- **subjects**: The subjects or courses taught by the staff member.
 
 <h4>Disclaimer</h4>
 
