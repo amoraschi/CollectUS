@@ -31,7 +31,7 @@ const ONLY_MODIFIED = true
   let i = 0
 
   if (!existsSync('detailed_data.csv')) {
-    writeFileSync('detailed_data.csv', 'id;surname;name;url;correo;phones;category;faculties;department;area;subjects\n')
+    writeFileSync('detailed_data.csv', 'id;surname;name;url;email;phones;category;faculties;department;area;subjects\n')
   }
 
   if (deletions.length > 0 && existsSync('detailed_data.csv')) {
